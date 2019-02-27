@@ -1,4 +1,4 @@
-# Kaggle_Titanic
+# Kaggle_Titanic Ranked Top 20%
 
 This repo is about a classic Kaggle competition --- Titanic: Machine Learning from Disaster
 
